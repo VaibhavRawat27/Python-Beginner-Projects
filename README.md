@@ -23,6 +23,7 @@ This repository contains a growing list of beginner-friendly Python projects to 
 | 12 | **Countdown Timer**            | A basic timer that counts down from a given time. |
 | 13 | **Random Quote Generator**     | Generate and display random inspirational quotes. |
 | 14 | **Student Marks Analyzer**     | Analyze marks, calculate insights like topper, failed students, etc. |
+| 15 | **Weekly Weather Data Analyzer** | A console-based Python project using NumPy to analyze weekly temperature data and provide weather insights like average, variance, and hottest days. |
 
 ---
 
