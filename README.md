@@ -40,6 +40,7 @@ This repo is perfect for:
 | 15 | 🌡️ **Weekly Weather Data Analyzer** | Analyze weekly temperature data using NumPy (average, variance, max). |
 | 16 | ✂️ **Rock Paper Scissor Game**     | Classic rock-paper-scissors game implemented in Python. |
 | 17 | 🧬 **Lifestamp Tracker**           | Print your lifetime in time — seconds, breaths, heartbeats. |
+| 18 | 📕 **Dictionary App** | A console-based tool to search and store word meanings locally or fetch them online via an API if not found |
 
 
 🔍 **To view the code:**  
