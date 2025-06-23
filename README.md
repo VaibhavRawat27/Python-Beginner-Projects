@@ -23,7 +23,7 @@ This repo is perfect for:
 
 | #  | Project Name                    | 📝 Description |
 |----|--------------------------------|----------------|
-| 1  | 🧮 [**Calculator App**](projects/01-Calculator-App.py)             | Perform basic arithmetic operations (add, subtract, multiply, divide). |
+| 1  | 🧮 **Calculator App**             | Perform basic arithmetic operations (add, subtract, multiply, divide). |
 | 2  | 📋 **To-do List**                 | Simple command-line task manager. |
 | 3  | 🎯 **Number Guessing Game**       | Guess a randomly generated number with helpful hints. |
 | 4  | 🔐 **Password Generator**         | Create strong random passwords with custom rules. |
