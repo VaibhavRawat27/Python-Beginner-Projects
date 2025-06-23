@@ -1,7 +1,7 @@
 # 🐍 Python Beginner Projects Collection
 
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="200" alt="Python Logo">
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="200" alt="Python Logo">
 </p>
 
 Welcome to the **Python Beginner Projects Collection**!  
