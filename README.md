@@ -39,6 +39,8 @@ This repo is perfect for:
 | 14 | 📊 **Student Marks Analyzer**     | Analyze student data: top scorers, failed students, and more. |
 | 15 | 🌡️ **Weekly Weather Data Analyzer** | Analyze weekly temperature data using NumPy (average, variance, max). |
 | 16 | ✂️ **Rock Paper Scissor Game**     | Classic rock-paper-scissors game implemented in Python. |
+| 17 | 🧬 **Lifestamp Tracker**           | Print your lifetime in time — seconds, breaths, heartbeats. |
+
 
 🔍 **To view the code:**  
 Browse the `projects/` folder or **search for the project name** in this repository.
