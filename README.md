@@ -1,8 +1,6 @@
-# 🐍 Python Beginner Projects Collection
-
-<p align="center">
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="150" alt="Python Logo">
-</p>
+<h1 style="margin-top: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" alt="🐍" style="margin-top: -6px;"> Python Beginner Projects Collection
+</h1>
 
 Welcome to the **Python Beginner Projects Collection**!  
 This repository is a curated list of simple, beginner-friendly Python projects to help you learn **by building**. Whether you're starting your Python journey or just looking to polish your skills, this is the perfect place to start! 🚀
