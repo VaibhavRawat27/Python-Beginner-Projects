@@ -41,6 +41,8 @@ This repo is perfect for:
 | 16 | ✂️ **Rock Paper Scissor Game**     | Classic rock-paper-scissors game implemented in Python. |
 | 17 | 🧬 **Lifestamp Tracker**           | Print your lifetime in time — seconds, breaths, heartbeats. |
 | 18 | 📕 **Dictionary App** | A console-based tool to search and store word meanings locally or fetch them online via an API if not found |
+| 19 | 🧮 **Universal Unit Converter** | Convert between different units: km–miles, kg–lbs, °C–°F, and INR–USD. |
+| 20 | 🛍️ **Grocery Category Recommender** | Get smart shopping suggestions by category and build a personal grocery list. |
 
 
 🔍 **To view the code:**  
