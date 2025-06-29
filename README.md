@@ -43,6 +43,7 @@ This repo is perfect for:
 | 18 | 📕 **Dictionary App** | A console-based tool to search and store word meanings locally or fetch them online via an API if not found |
 | 19 | 🧮 **Universal Unit Converter** | Convert between different units: km–miles, kg–lbs, °C–°F, and INR–USD. |
 | 20 | 🛍️ **Grocery Category Recommender** | Get smart shopping suggestions by category and build a personal grocery list. |
+| 21 | 🎲 **Dice Rolling Simulator** | Simulate rolling one or two dice with random results and replay option in a fun console-based app. |
 
 
 🔍 **To view the code:**  
