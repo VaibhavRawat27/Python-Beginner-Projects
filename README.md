@@ -44,7 +44,7 @@ This repo is perfect for:
 | 19 | 🧮 **Universal Unit Converter** | Convert between different units: km–miles, kg–lbs, °C–°F, and INR–USD. |
 | 20 | 🛍️ **Grocery Category Recommender** | Get smart shopping suggestions by category and build a personal grocery list. |
 | 21 | 🎲 **Dice Rolling Simulator** | Simulate rolling one or two dice with random results and replay option in a fun console-based app. |
-
+| 22 | ☁️ **Simple Weather App** | A lightweight Python script that fetches and displays current weather information for any city using a free, no-authentication weather API. |
 
 🔍 **To view the code:**  
 Browse the `projects/` folder or **search for the project name** in this repository.
